@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,MIFD-070 永濑唯★本物アイドルAV解禁外神田からやってきたミニマムCuteガール149cm 2019
+#EXTINF:-1 group-title="A JAV",MIFD-070 永濑唯★本物アイドルAV解禁外神田からやってきたミニマムCuteガール149cm 2019
 https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
 #EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/04/199222274_1616670l.jpg",ABW-089
 https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/6.5%20Project/Prestige/ABW-089.mp4
@@ -75,7 +75,7 @@ https://surrit.com/005942c7-64ee-487e-886d-8e5ec5927a2e/1280x720/video.m3u8
 https://surrit.com/007325ed-29f1-441c-9ab8-429c703b6a00/1280x720/video.m3u8
 #EXTINF:-1 group-title="熟女人妻" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",VENX-247 我儿子的妻子 Mai Arisu 被她的公公体内射精，并获得了解真实性的乐趣
 https://surrit.com/00787567-2f69-49eb-9c00-3e38b2a3b56e/1280x720/video.m3u8
-#EXTINF:-1 ,#17 柇伽满必审 伟大的飞翔友！夏美最美的离婚故事（32）【补充礼物】
+#EXTINF:-1 group-title="熟女人妻",#17 柇伽满必审 伟大的飞翔友！夏美最美的离婚故事（32）【补充礼物】
 https://surrit.com/00821857-b04c-4f64-8edc-6b04d1789096/1280x720/video.m3u8
 #EXTINF:-1 group-title="熟女人妻" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",ALDN-235 我实在受不了了，我媳妇是我舅舅夏川步美
 https://surrit.com/0088982b-cd04-45bb-ae6d-ce30411d56f0/1280x720/video.m3u8
@@ -525,7 +525,7 @@ https://surrit.com/08071c74-0640-40dd-b519-3cc204446675/1280x720/video.m3u8
 https://surrit.com/08293750-2c32-4dea-adba-28c0cb59361d/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",SSIS-954 我聘请了一位大胸网红作为女仆，她可以口交和乳交[我还给她穿了和●ik●ok一样的衣服]
 https://surrit.com/08378bd8-8e02-448d-a3dd-c04aee57ae19/1280x720/video.m3u8
-#EXTINF:-1 ,#东京面具美女（木叶先生，23岁上班族）
+#EXTINF:-1 group-title="无码流出",#东京面具美女（木叶先生，23岁上班族）
 https://surrit.com/0840b429-28c0-4696-ac5a-afeadcaf95e5/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3928934 “特别2瓶”前赛沙女王，现任赛沙配偶！我在做这个工作！丽华 29 岁
 https://surrit.com/084defd5-c69a-47d9-b460-d1634599b574/1280x720/video.m3u8
